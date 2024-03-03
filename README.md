@@ -1,2 +1,1 @@
-# Java_Lab4sem
-Programowanie obiektowe 4 semestr
+<h1>$${\color{green}Większość \space zadań \space z \space Programowania \space Obiektowego\space 2.}$$</h1>
